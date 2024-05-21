@@ -8,7 +8,7 @@
 
 ## Grupo LPM
 
-## Integrantes: Lucas Gutierrez, Matheus Fernandes, Pedro Schaurich Maia 
+## Integrantes: <a href="https://github.com/oGubo">Lucas Gutierrez</a>, <a href="https://github.com/Math19102012">Matheus Fernandes</a>, <a href="https://github.com/schaurxch">Pedro Schaurich Maia</a>
 
 ## Professores Orientadores: Fabiano Onça, Victor Quiroz
 
