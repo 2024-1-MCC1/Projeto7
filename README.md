@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://github.com/oGubo">Lucas Gutierrez</a>, <a href="https://github.com/Math19102012">Matheus Fernandes</a>, <a href="https://github.com/schaurxch">Pedro Schaurich Maia</a>
 
-## Professores Orientadores: Fabiano Onça, Victor Quiroz
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Queiroz</a>
 
 ## Descrição
 
