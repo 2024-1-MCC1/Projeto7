@@ -25,7 +25,7 @@
 <br><br>
 Jogo para o Projeto Integrador do 1° SEM de Ciências da Computação FECAP 2024.
 <br><br>
-SOS MAR é um jogo baseado na ODS 14 (Vida na água) e foi criado para que as pessoas tenham mais conscientização sobre os problemas que o lixo causa na vida marinha e terrestre e tenham noção de que podem ajudar a solucionar esse gigante problema.
+SOS MAR é um jogo educativo baseado na ODS 14 (Vida na água) e foi criado para que as pessoas tenham mais conscientização sobre os problemas que o lixo causa na vida marinha e terrestre e tenham noção de que podem ajudar a solucionar esse gigante problema.
 <br><br>
 
 ## 🛠 Estrutura de pastas
